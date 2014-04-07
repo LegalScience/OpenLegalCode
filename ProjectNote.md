@@ -15,3 +15,9 @@
 
 twneale
 ben@benkallos.com
+
+
+Relevant Links:
+
+Here is a link to the Uniform Laws analytics we are starting to work on... this is still under wraps and confidential and partly wrong but please take a look and try to hack it if  you want:
+https://docs.google.com/a/civics.com/spreadsheet/ccc?key=0Am_n24wFabFCdDV0N2x5cDlwTlZMdzh0UU9UM0ZnblE&hl=en#gid=0 
