@@ -1,24 +1,24 @@
-The OpenLegislation project and OpenLegalCode project together are designed to provide the law of New York City and partner jurisdictions as data accessible at a free, public published interface.  Respectively, the projects focus upon the law making process and the publication and use of enacted laws.  
+The OpenLegislation and OpenLegalCode project aims to provide the law of New York City and partner jurisdictions as open data accessible at free, public published interfaces.  The projects is intended to result with open and accessible legislative drafting and publication of enacted laws.  
 
 This roadmap is intended to help identify key ares of consensus and other important aspects of a general agreement on approach, architecture or roll out of the project.  
 
 Below are some items that might form part of the roadmap:
 
-# People: 
+## People: 
 
 Who are the people that will use or have a role relevant to the systems? 
 
-# Interactions:
+## Interactions:
 
 What interactions are the key participants coducting?
 
-# Data:
+## Data:
 
 What data is in play, who owns it, how are rights to or from the data received, enforced and transferred?
 
-# Systems:
+## Systems:
 
-What systems and components are used or relevant to the above noted people conducting interactions related to the data and what requirements or constraints arrise from or related to those systems.  
+What platforms, services, software or other components comprise the systems used by the above people to interact with the above data and/or with each other? 
 
 
 ---
