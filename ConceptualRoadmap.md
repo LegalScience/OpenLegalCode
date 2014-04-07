@@ -5,9 +5,11 @@ This roadmap is intended to help identify key ares of consensus and other import
 Below are some items that might form part of the roadmap:
 
 # People: 
-When this project successfully deployes open law, what will their roles and relationsip be?
 
-# Interactions
+Who are the people that will use or have a role relevant to the systems? 
+
+# Interactions:
+
 What interactions are the key participants coducting?
 
 # Data:
@@ -16,6 +18,7 @@ What data is in play, who owns it, how are rights to or from the data received, 
 
 # Systems:
 
-What systems are used or relevant to the above noticed people conducting interactions related to the data and what requirements or constraints arrising out of or relate to those systems.  
+What systems and components are used or relevant to the above noted people conducting interactions related to the data and what requirements or constraints arrise from or related to those systems.  
 
 
+---
