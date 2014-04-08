@@ -2,7 +2,7 @@
 
 1. Introduction for Ben Kallos to Shamus/Issa Open Government Foundation
 
-* DONE
+DONE
 
 2. Testimony from MIT Media Lab on June 6, 2014 (Minimally from Dazza, maybe someone better)
 
@@ -15,7 +15,7 @@ DONE.
 
 4. Create working group to create "best" model for NYC
 
-  A - MVP for Legislation/Legal hosting
+  - MVP for Legislation/Legal hosting
 
 I propose this topic be an agenda item for our next conversation.  
 
