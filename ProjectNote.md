@@ -6,32 +6,28 @@
 
 2. Testimony from MIT Media Lab on June 6, 2014 (Minimally from Dazza, maybe someone better)
 
-* CONFIRMED.  Invitation letter to Professor Sandy Pentland at Media Lab (hd.media.mit.edu) citing out conversationa nd collaboration would be helpful.  Minimally, I can do this and perhaps we can improve that with Sandy or another faculty-level guru. 
+CONFIRMED.  Invitation letter to Professor Sandy Pentland at Media Lab (hd.media.mit.edu) citing out conversationa nd collaboration would be helpful.  Minimally, I can do this and perhaps we can improve that with Sandy or another faculty-level guru. 
 
 
 3. Introduction to Boston in order to move forward as two city solution for CiviCommons on Legislation/Laws
 
-* DONE.
+DONE.
 
 4. Create working group to create "best" model for NYC
 
   A - MVP for Legislation/Legal hosting
 
-* I propose this topic be an agenda item for our next conversation.  
-* Meanwhile, I have [provisioned place in this repo](https://github.com/LegalScience/OpenLegalCode/tree/master/WorkingGrou
+I propose this topic be an agenda item for our next conversation.  
+
+Meanwhile, I have [provisioned place in this repo](https://github.com/LegalScience/OpenLegalCode/tree/master/WorkingGrou
 
 p) where we can hack away at it. 
 
 5. Commitment from MIT Media Lab/Sub Light Foundation 
 
-* DONE
+DONE
 
-----
-
-twneale
-ben@benkallos.com
-
-
+=====
 Relevant Links:
 
 Here is a link to the Uniform Laws analytics we are starting to work on... this is still under wraps and confidential and partly wrong but please take a look and try to hack it if  you want:
