@@ -1,5 +1,9 @@
 **Ben Kallos and Dazza Greenwood Collaboration on putting New York City Code online**
 
+
+
+## Items from Initial Call on April 6, 2014
+
 * Introduction for Ben Kallos to Shamus/Issa Open Government Foundation
 
 DONE
@@ -19,9 +23,7 @@ DONE.
 
 I propose this topic be an agenda item for our next conversation.  
 
-Meanwhile, I have [provisioned place in this repo](https://github.com/LegalScience/OpenLegalCode/tree/master/WorkingGrou
-
-p) where we can hack away at it. 
+Meanwhile, I have [provisioned place in this repo](https://github.com/LegalScience/OpenLegalCode/tree/master/WorkingGroup) where we can hack away at it. 
 
 * Commitment from MIT Media Lab/Sub Light Foundation 
 
