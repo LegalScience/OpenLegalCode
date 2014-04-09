@@ -65,6 +65,8 @@ Name the key Business Legal and Technical Systems of Systems, ie:
 * Perhaps Three big meetings (with pre-meeting to prepare, interim meeting to work, and post-project meetings to transition): 
  - MEETING ONE: June - Project Launch (MIT Hackathon?)
  - MEETING TWO: July - Mid-Project Presentation and Review/Feedback
- - MEETING THREE: August - Final Presentation and Review/Hand-Off for Transition to "Business Owners" in city gov't, non-prof, etc.  
+ - MEETING THREE: August - Final Presentation and Review/Hand-Off for Transition to "Business Owners" in city gov't, non-prof, etc.    For post-handoff transition to the more stable phase of pilot/implementation, it will be important to start discussing models that can have an easy transition from the design phase and are the right size and complexity for the anticipated group and projects and dynamics of voluntary collaboration... here is a starter file identifying some initial - incomplete - models: (https://github.com/LegalScience/OpenLegalCode/blob/master/WorkingGroup/Resources/RelevantModels.md) 
+
+
  
 
