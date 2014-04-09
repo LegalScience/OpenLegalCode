@@ -47,3 +47,23 @@ Ideally, with at least one person from each key partner to date, intended to pro
 
 **MIT Legal Hackathon**
 * Details tbd
+
+
+# July
+
+Mid-Project Presentation to Ben and whomever else (Cities, etc) may be on a "steering committee" by this time.  Review and Feedback cycle.  Refinement of design and issues backlog update for intended rapid prototype.
+
+### July 15-17
+
+**Open Knowledge Festival, Berlin**
+* There will be events at this festival that the LegalScience Media Lab team tentatively plans to run and that relate to this project.  May be a good opportunity to plan for another boost to the code and deepen a more flexible and extensible approach to structure of law (ie one that can work in jurisdictions beyond the US)
+* Financial aid for hackers etc Sunday 4th May and available at (http://2014.okfestival.org/info/aid)
+
+
+# August 
+
+End-of-Project final presentation to Ben and steering cmt and hand-off of code, repositories, etc as may be needed for the cities and/or other stakeholder to carry forward with a post-design-phase plan to test, pilot, implement and deploy.  
+
+# September
+
+* As of April 9th, this is beyond the expected scope of time alloted to the three month design and rapid prototype collaboration.  
