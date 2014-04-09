@@ -31,6 +31,12 @@
 ## Items from Initial Call on April 6, 2014
 (Note - in future this will be rolled into the update but I wrote the below info earlier than the above info and don't want to spend the time editing it all together... please glance at both the above and below and from April 9th forward it will be merged to a running "updates" log in the format used above...and of course, that format may well further evolve.) 
 
+* Confirm new idea to create a collaboration between Dazza Greenwood (solely or primarily in his MIT Media Lab capacity) and Ben Kallos (solely or primarily in his City Council capacity).  
+
+DONE
+
+Note on this item:  For more info, see [README](https://github.com/LegalScience/OpenLegalCode/blob/master/MediaLabLegalScienceTeam/README.md) file.  Dazza confirmed with Sandy Pentland a green light to spend some time, informally and on a voluntary basis, pursuing the collaboration with Ben Kallos and (it is hoped) more stakeholders and jurisdictions as we go) on this project to advance putting the law online in the way Ben has proposed.  As discussed, we plan to use the [same model of collaboration](https://github.com/LegalScience/OpenLegalCode/blob/master/MediaLabLegalScienceTeam/README.md) as we are using with Federal Judge Aiken on the ReEntryApp project (a three month design and rapid prototype phase culminating with something pretty good and people working together suitable to be "handed-off" to an agreed more stable host environment).  Current concept of this collaboration is in the [README file](https://github.com/LegalScience/OpenLegalCode/blob/master/MediaLabLegalScienceTeam/README.md) of a [directory](https://github.com/LegalScience/OpenLegalCode/blob/master/MediaLabLegalScienceTeam) for the Media Lab I set up in this [repo](https://github.com/LegalScience/OpenLegalCode/). 
+
 * Introduction for Ben Kallos to Shamus/Issa Open Government Foundation
 
 DONE
