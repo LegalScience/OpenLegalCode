@@ -1,6 +1,17 @@
 **Ben Kallos and Dazza Greenwood Collaboration on putting New York City Code online**
 
 
+## Next steps
+
+* An intro has been made to the City of Bosotn CIO, and I prepped him and his team by email.  At least one key staffer was excited to meet Ben.  Next step is to close the loop and assess interest to schedule a call. 
+
+* An intro has been made to Seamus and was preceeded by a prep call with him.  He is excited to meet Ben.  Seamus has replied.  Next steps is to schedule a call. 
+
+* Testimony for June 6 is great.  Next steps is to send an invitation letter to Sandy Pentland of hd.media.mit.edu and either I will testify or somebody even better. 
+
+* MIT Legal Hackathon is tentatively scheduled for June 19-22, with business oriented meeting 19/20 Thur/Fri) and hacker/coder/maker activity 21/22 (Sat/Sun).  Dates are confirmed (tentatively?) with Anthony.  Next step is to discuss a notional agenda for the NYC/City Law track and set a day/time on 19 or 20 for a speech at MIT proper, with a title and very short abstract for time being (a couple sentences is fine).  Next step: brief call or hangout to discuss.  
+
+* Idea to form a working group (from Aprol 6 meeting) resulted in creating a directory on this Repo, at: (https://github.com/LegalScience/OpenLegalCode/tree/master/WorkingGroup).  I suggest we each hack away at a charter, proposed WG members and perhaps a notional description of expected deliverables or other outcomes on this "[WorkingGroupScratchPad.md](https://github.com/LegalScience/OpenLegalCode/blob/master/WorkingGroup/WorkGroupScratchPad.md)" file.  
 
 ## Items from Initial Call on April 6, 2014
 
@@ -23,7 +34,7 @@ DONE.
 
 I propose this topic be an agenda item for our next conversation.  
 
-Meanwhile, I have [provisioned place in this repo](https://github.com/LegalScience/OpenLegalCode/tree/master/WorkingGroup) where we can hack away at it. 
+Meanwhile, I have [provisioned place in this repo](https://github.com/LegalScience/OpenLegalCode/tree/master/WorkingGroup) where we can hack away and a [scratch pad with outline to iterate from.](https://github.com/LegalScience/OpenLegalCode/blob/master/WorkingGroup/WorkGroupScratchPad.md) 
 
 * Commitment from MIT Media Lab/Sub Light Foundation 
 
