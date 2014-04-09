@@ -3,7 +3,7 @@
 
 ## Next steps as of April 9th
 
-* From April 6: Dazza confirmed with Sandy Pentland a green light to provision a lightweight informal collaboration between Dazza Greenwood in his MIT Media Lab capacity and Ben Kallos in his NY City Council capacity to help put the law online in the best way possible for NYC and **by design** intended to enable/promote scalable, agreeable methods other jurisdictions (hopefully starting with City of Boston) can partner on now or adopt/adapt later.  See followup note below and more info on the [README](https://github.com/LegalScience/OpenLegalCode/blob/master/MediaLabLegalScienceTeam/README.md) file.
+* From April 6: Dazza confirmed with Sandy Pentland a green light to provision a lightweight informal collaboration between Dazza Greenwood in his MIT Media Lab capacity and Ben Kallos in his NY City Council capacity to help put the law online in the best way possible for NYC and **by design** intended to enable/promote scalable, agreeable methods other jurisdictions (hopefully starting with City of Boston) can partner on now or adopt/adapt later.  See followup [note below](https://github.com/LegalScience/OpenLegalCode/blob/master/ProjectNote.md#items-from-initial-call-on-april-6-2014) and more info on the [README](https://github.com/LegalScience/OpenLegalCode/blob/master/MediaLabLegalScienceTeam/README.md) file.
 
 * From April 6 Call: An intro has been made to the City of Bosotn CIO, and I prepped him and his team by email.  At least one key staffer was excited to meet Ben.  Next step is to close the loop and assess interest to schedule a call. 
 
