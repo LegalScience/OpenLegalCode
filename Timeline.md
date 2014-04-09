@@ -16,11 +16,11 @@ Key Dates and Events Linkable Timeline
 **Kick-Off Collaboration Hangout**
 Ideally, with at least one person from each key partner to date, intended to provide a team and public event marking the start of a three month design and rapid prototype collaboration.  
 
-- Embed: <iframe width="420" height="315" src="http://www.youtube.com/embed/OpcHCu3f1QM" frameborder="0" allowfullscreen></iframe>
+- Embed: [This embed code is available from <iframe width="420" height="315" src="http://www.youtube.com/embed/OpcHCu3f1QM" frameborder="0" allowfullscreen></iframe>](https://plus.google.com/events/cpdbulvu7qe4uskc1ldrhl960go) by clicking "links" options.
 
-- Youtube http://youtu.be/OpcHCu3f1QM
+- Youtube (http://youtu.be/OpcHCu3f1QM)
 
-- Event Page: https://plus.google.com/events/cpdbulvu7qe4uskc1ldrhl960go
+- Event Page: (https://plus.google.com/events/cpdbulvu7qe4uskc1ldrhl960go)
 
 # May 2014
 
