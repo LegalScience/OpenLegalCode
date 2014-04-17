@@ -10,6 +10,13 @@ This is a voluntary unincirporated association of people and organizations comin
 * amendable by creation, modification or deletion by authoritative body
 * Verifiable source provenance and version control 
 
+## Business, Legal and Technology Groups
+
+There are three key groups focused on each of the three core functional domains: 
+Business:
+Legal:
+Technology:
+
 
 ## Description of the WG on a larger "RoadMap" showing it's place
 
